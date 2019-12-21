@@ -17,7 +17,6 @@ public class Day_01_Solution {
         double d = 4.0;
         String s = "HackerRank ";
         Scanner scan = new Scanner(System.in);
-        
         int myInt;
         double myDouble;
         String myString;
@@ -28,7 +27,6 @@ public class Day_01_Solution {
         System.out.println(i + myInt);
         System.out.println(d + myDouble);
         System.out.println(s + myString);
-        
         scan.close();
     }
 }
