@@ -15,4 +15,7 @@ My solutions to the 30 Days of Code challenges at Hackerrank.
 
 :white_check_mark: Day 5 : Loops
 
+:white_check_mark: Day 6 : Let's Review
+
+
 ***Made with :blue_heart: by Tridib***
