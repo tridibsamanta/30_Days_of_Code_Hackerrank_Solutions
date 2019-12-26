@@ -13,4 +13,6 @@ My solutions to the 30 Days of Code challenges at Hackerrank.
 
 :white_check_mark: Day 4 : Class vs. Instance
 
+:white_check_mark: Day 5 : Loops
+
 ***Made with :blue_heart: by Tridib***
