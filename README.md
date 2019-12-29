@@ -21,5 +21,8 @@ My solutions to the ***30 Days of Code*** challenge at Hackerrank.
 
 :white_check_mark: Day 6 : Let's Review
 
+:white_check_mark: Day 7 : Arrays
+
+
 
 ***Made with :blue_heart: by Tridib***
