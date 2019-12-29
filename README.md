@@ -23,6 +23,7 @@
 
 :white_check_mark: Day 7 : Arrays
 
+:white_check_mark: Day 8 : Dictionaries and Maps
 
 
 ***Made with :blue_heart: by Tridib***
