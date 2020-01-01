@@ -27,5 +27,7 @@
 
 :white_check_mark: Day 9 : Recursion
 
+:white_check_mark: Day 10 : Binary Numbers
+
 
 ***Made with :blue_heart: by Tridib***
