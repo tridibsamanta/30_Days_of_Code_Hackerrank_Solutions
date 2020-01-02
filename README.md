@@ -29,5 +29,7 @@
 
 :white_check_mark: Day 10 : Binary Numbers
 
+:white_check_mark: Day 11 : 2D Arrays
+
 
 ***Made with :blue_heart: by Tridib***
