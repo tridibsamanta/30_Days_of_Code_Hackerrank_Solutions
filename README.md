@@ -33,5 +33,7 @@
 
 :white_check_mark: Day 12 : Inheritance
 
+:white_check_mark: Day 13 : Abstract Classes
+
 
 ***Made with :blue_heart: by Tridib***
