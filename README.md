@@ -31,5 +31,7 @@
 
 :white_check_mark: Day 11 : 2D Arrays
 
+:white_check_mark: Day 12 : Inheritance
+
 
 ***Made with :blue_heart: by Tridib***
