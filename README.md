@@ -35,5 +35,7 @@
 
 :white_check_mark: Day 13 : Abstract Classes
 
+:white_check_mark: Day 14 : Scope
+
 
 ***Made with :blue_heart: by Tridib***
