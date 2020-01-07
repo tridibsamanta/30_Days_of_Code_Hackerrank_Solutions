@@ -37,5 +37,7 @@
 
 :white_check_mark: Day 14 : Scope
 
+:white_check_mark: Day 15 : Linked List
+
 
 ***Made with :blue_heart: by Tridib***
