@@ -41,6 +41,7 @@
 
 :white_check_mark: Day 16 : Exceptions - String to Integer
 
+:white_check_mark: Day 17 : More Exceptions
 
 
 ***Made with :blue_heart: by Tridib***
