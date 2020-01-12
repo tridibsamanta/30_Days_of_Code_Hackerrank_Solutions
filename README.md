@@ -43,5 +43,9 @@
 
 :white_check_mark: Day 17 : More Exceptions
 
+:white_check_mark: Day 18 : Queues and Stacks
+
+:white_check_mark: Day 19 : Interfaces
+
 
 ***Made with :blue_heart: by Tridib***
