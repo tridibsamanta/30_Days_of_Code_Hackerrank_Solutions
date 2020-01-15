@@ -47,5 +47,7 @@
 
 :white_check_mark: Day 19 : Interfaces
 
+:white_check_mark: Day 20 : Sorting
+
 
 ***Made with :blue_heart: by Tridib***
