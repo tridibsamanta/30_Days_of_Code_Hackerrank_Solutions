@@ -1,4 +1,4 @@
-# 30_Days_of_Code_Hackerrank_Solutions | Contributed with :blue_heart: by Tridib 
+# 30_Days_of_Code_Hackerrank_Solutions 
 
 
 ![Hackerrank](https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg)
