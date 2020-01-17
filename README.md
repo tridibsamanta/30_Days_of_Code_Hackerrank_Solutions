@@ -1,4 +1,4 @@
-# 30_Days_of_Code_Hackerrank_Solutions
+# 30_Days_of_Code_Hackerrank_Solutions | Contributed with :blue_heart: by Tridib 
 
 
 ![Hackerrank](https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg)
@@ -49,5 +49,7 @@
 
 :white_check_mark: Day 20 : Sorting
 
+:white_check_mark: Day 21 : Generics
 
-***Made with :blue_heart: by Tridib***
+
+***Contributed with :blue_heart: by Tridib***
