@@ -51,5 +51,7 @@
 
 :white_check_mark: Day 21 : Generics
 
+:white_check_mark: Day 22: Binary Search Trees
+
 
 ***Contributed with :blue_heart: by Tridib***
