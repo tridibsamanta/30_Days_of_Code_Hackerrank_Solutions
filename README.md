@@ -51,7 +51,9 @@
 
 :white_check_mark: Day 21 : Generics
 
-:white_check_mark: Day 22: Binary Search Trees
+:white_check_mark: Day 22 : Binary Search Trees
+
+:white_check_mark: Day 23 : BST Level-Order Traversal
 
 
 ***Contributed with :blue_heart: by Tridib***
