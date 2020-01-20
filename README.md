@@ -55,5 +55,7 @@
 
 :white_check_mark: Day 23 : BST Level-Order Traversal
 
+:white_check_mark: Day 24 : More Linked Lists
+
 
 ***Contributed with :blue_heart: by Tridib***
