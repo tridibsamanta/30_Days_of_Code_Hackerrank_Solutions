@@ -59,5 +59,7 @@
 
 :white_check_mark: Day 25 : Running Time and Complexity
 
+:white_check_mark: Day 26 : Nested Logic
+
 
 ***Contributed with :blue_heart: by Tridib***
