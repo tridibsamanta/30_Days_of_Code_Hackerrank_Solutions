@@ -61,5 +61,7 @@
 
 :white_check_mark: Day 26 : Nested Logic
 
+:white_check_mark: Day 27 : Testing
+
 
 ***Contributed with :blue_heart: by Tridib***
