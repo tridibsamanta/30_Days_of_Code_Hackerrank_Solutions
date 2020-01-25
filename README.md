@@ -63,5 +63,7 @@
 
 :white_check_mark: Day 27 : Testing
 
+:white_check_mark: Day 28 : RegEx, Patterns, and Intro to Databases
+
 
 ***Contributed with :blue_heart: by Tridib***
