@@ -3,7 +3,6 @@
 
 ![Hackerrank](https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg)
 
-![Badge](https://drive.google.com/drive/folders/1YtaioBUQsHSy80oQmsZqEpNyInssJoOC)
 
 ***My solutions to the*** ***30 Days of Code*** ***tutorial challenges at Hackerrank in Java.***
 
