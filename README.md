@@ -65,5 +65,7 @@
 
 :white_check_mark: Day 28 : RegEx, Patterns, and Intro to Databases
 
+:white_check_mark: Day 29 : Bitwise AND
+
 
 ***Contributed with :blue_heart: by Tridib***
